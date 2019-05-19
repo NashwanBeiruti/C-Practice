@@ -1,3 +1,4 @@
+// Author :Nash
 #include <cmath>
 #include <iostream>
 using namespace std;
