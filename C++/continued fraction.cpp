@@ -1,4 +1,4 @@
-
+// Author :Nash
 // Rat class i.e. a class for rational numbers
 #include <iostream>
 using namespace std;
